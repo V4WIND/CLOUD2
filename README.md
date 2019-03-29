@@ -18,5 +18,7 @@ https://www.analyticsvidhya.com/wp-content/uploads/2015/08/infographics123.jpg
 T-Tests P-Value F-Value
 https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_ttest_sect009.htm
 https://v8doc.sas.com/sashtml/stat/chap67/sect4.htm
+https://www.sas.com/content/dam/SAS/en_ca/User%20Group%20Presentations/Calgary-User-Group/Yankovsky-ExploringProcTtest-Apr2015.pdf
+https://www.statsdirect.com/help/basics/p_values.htm
 https://stats.idre.ucla.edu/sas/output/proc-ttest/
 http://www.stat.purdue.edu/~tqin/system101/method/method_two_t_sas.htm
